@@ -2,8 +2,6 @@
 ### Multijurisdictional Blue Carbon Credit Tokenization Platform on LACNet
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform: LACNet](https://img.shields.io/badge/Platform-LACNet-blue.svg)](https://lacnet.lacchain.net/)
-[![Standard: TTF](https://img.shields.io/badge/Standard-TTF%20Compliant-green.svg)](https://interwork.org/)
 
 **Blue-Carbon Manglar Tumbes** es una plataforma descentralizada multijurisdiccional diseñada para tokenizar créditos de carbono azul provenientes de la conservación y restauración de manglares en la costa del Pacífico Latinoamericano (Perú, Ecuador y Colombia). Implementado sobre la red **LACNet**, el sistema automatiza el cumplimiento regulatorio transfronterizo utilizando el **Token Taxonomy Framework (TTF)** e integra tecnologías de frontera (Drones, IA y Blockchain) para empoderar financieramente a las comunidades pesqueras artesanales.
 
