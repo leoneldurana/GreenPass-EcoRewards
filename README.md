@@ -75,7 +75,7 @@ Circular-economy functions burn or lock TTF tokens against a defined action cata
 > | Deliverable | Link |
 > |---|---|
 > | Pitch Deck (Executive Presentation) | [https://acesse.one/pitch-deck-manglar-de-tumbes](https://acesse.one/pitch-deck-manglar-de-tumbes) |
-> | GitHub Repository (Public & Open Source) | [https://github.com/leoneldurana/Blue-Carbon-TTF.git](https://github.com/leoneldurana/Blue-Carbon-TTF.git) |
+> | GitHub Repository (Public & Open Source) | [https://github.com/leoneldurana/Blue-Carbon-TTF.git]([https://github.com/leoneldurana/Blue-Carbon-TTF.git](https://github.com/leoneldurana/MANGLAR-TUMBES-.git)) |
 > | Functional Demo Video (2–5 Minutes) | **⚠️ [INSERT YOUTUBE/VIDEO LINK] — pending, add before final submission** |
 
 Releasing the full codebase, documentation, and smart contract source as open-source deliverables is not a peripheral choice; it is a deliberate signaling mechanism. In blue carbon finance, the primary friction is information asymmetry: funders, regulators, and partner institutions cannot easily verify whether a project's conservation claims match its actual technical implementation. By publishing the complete source code publicly, Blue-Carbon TTF allows any third party — an auditor, a partner institution, or a civil-society watchdog — to independently verify the correctness of the TTF-issuance logic and the integrity of the on-chain audit trail, rather than relying on the team's self-reported claims. This transparency lowers the due-diligence cost for future institutional adopters and directly reduces the greenwashing and double-counting risk described in Section 2.
