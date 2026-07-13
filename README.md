@@ -92,7 +92,7 @@ Releasing the full codebase, documentation, and smart contract source as open-so
 
 By directly channeling protocol revenue to coastal cooperatives, Blue-Carbon TTF targets the value-chain exclusion identified in Section 2. In the pilot phase, the protocol has verified 40.0 hectares of restored mangrove, minted 860 TTF (tCO2eq) credits, engaged 9 active coastal cooperatives, and recorded a **22% increase** in black-shell (concha negra) capture associated with restored zones.
 
-![TTF Revenue Distribution per Minting Event](chart_revenue_distribution.png)
+
 
 Every minting event is distributed automatically by smart contract as follows: Coastal Communities 55%, Technology/Platform 20%, MRV Verification 15%, and Nursery Reinvestment 10%.
 
@@ -107,7 +107,7 @@ Every minting event is distributed automatically by smart contract as follows: C
 
 *Note: Figures are illustrative projections for planning purposes and should be recalibrated against pilot-phase data collected in Horizon 1 of the roadmap (Section 8).*
 
-![Target KPI Growth (Year 1 – Year 3)](chart_kpi_growth.png)
+
 
 ### Scalability
 
@@ -132,7 +132,7 @@ Choosing an open, decentralized public good — rather than a proprietary, close
 
 > **Post-Hackathon Execution Plan:** The following timeline represents our projected growth strategy starting from the completion of the hackathon. It outlines the transition from our current functional testnet prototype to a fully scalable, multijurisdictional blue carbon ecosystem.
 
-![Post-Hackathon Execution Roadmap](chart_roadmap_timeline.png)
+
 
 | Phase | Timeline | Focus | Key Activities |
 | :--- | :--- | :--- | :--- |
